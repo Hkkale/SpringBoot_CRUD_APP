@@ -1,0 +1,7 @@
+body{
+  background-image: url("../public/backimg.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  color: #ffff;
+}
